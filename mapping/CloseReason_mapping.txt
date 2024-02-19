@@ -1,0 +1,1 @@
+{'tcp-fin': 0, 'aged-out': 1, 'tcp-rst': 2, '-': 3, 'aged-out.': 4, 'tcp-fin.': 5}

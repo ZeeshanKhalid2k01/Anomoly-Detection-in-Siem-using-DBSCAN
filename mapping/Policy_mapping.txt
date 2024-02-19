@@ -1,0 +1,1 @@
+{'-': 0, 'Wifi-1_to_Internet': 1, 'VMs_to_Internet': 2, 'LAN-1_to_Internet': 3, 'LAN-2_to_Internet': 4, 'LAN-2_to_VMs': 5, 'LAN-1_to_VMs': 6}

@@ -1,0 +1,1 @@
+{'-': 0, 'Facebook_Login': 1, 'HTTP': 2, 'AmazonS3': 3, 'DNS': 4}

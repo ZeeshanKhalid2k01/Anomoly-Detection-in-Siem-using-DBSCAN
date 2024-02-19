@@ -1,0 +1,1 @@
+{'-': 0, 'ICMP unreachable attack': 1, 'IP spoof attack': 2, 'Trace route attack': 3}

@@ -1,0 +1,1 @@
+{'SECLOG': 0, 'POLICY': 1, 'ATK': 2, 'CASA': 3, 'DLP': 4, 'PHY': 5, 'IFNET': 6, 'IPS': 7, 'CFM': 8}
